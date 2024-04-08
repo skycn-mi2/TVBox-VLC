@@ -1,0 +1,34 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext {
+        agp_version = '8.2.0'
+    }
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://download.01.org/crosswalk/releases/crosswalk/android/maven2' }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$agp_version"
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://download.01.org/crosswalk/releases/crosswalk/android/maven2' }
+        maven { url "https://maven.aliyun.com/repository/releases" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

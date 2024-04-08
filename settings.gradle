@@ -1,0 +1,5 @@
+rootProject.name = "TVBox"
+include ':app'
+include ':player'
+include ':myspider'
+include ':crawler'
