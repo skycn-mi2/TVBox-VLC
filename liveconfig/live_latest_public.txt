@@ -394,7 +394,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 蓬安新闻综合_(720P)_[NOT_24/7],http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 襄垣电视,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
 西华综合频道,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -679,6 +678,7 @@ IP4地方,#genre#
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 西青新闻综合_(1080P)_[NOT_24/7],http://221.238.209.44:81/hls/live1.m3u8
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 运城公共频道,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
@@ -862,7 +862,8 @@ IP4电影轮播,#genre#
 飞驰人生2TC,https://ikcdn01.ikzybf.com/20240212/jjCpFTXC/2000kb/hls/index.m3u8
 香港电影,http://43.138.170.29:35455/yy/1382736910
 香港鬼片2,http://43.138.170.29:35455/yy/1382737886
-香港鬼片3,http://43.138.170.29:35455/yy/24066336鬼片恐怖惊悚,http://43.138.170.29:35455/douyu/2935323
+香港鬼片3,http://43.138.170.29:35455/yy/24066336
+鬼片恐怖惊悚,http://43.138.170.29:35455/douyu/2935323
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 黑白潜行,https://vip.ffzy-online6.com/20240204/25747_fb206ff2/2000k/hls/index.m3u8
 IP4直播中国,#genre#
